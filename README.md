@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaudjr
 - 👀 I’m interested in IT and Web Development
-- 🌱 I’m currently learning  HTML5  and CSS3
+- 🌱 I’m currently learning  HTML5 , CSS3 , java , javascript , node js 
 - 💞️ I’m looking to collaborate on Front end project
 - 📫 How to reach me Email:kaudjr@gmail.com
 - 😄 Pronouns: ...Delta Kaud
